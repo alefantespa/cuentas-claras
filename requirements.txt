@@ -1,1 +1,1 @@
-streamlit
+requirements.txt
